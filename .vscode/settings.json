@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "path": "${env:PATH};${workspaceFolder}\\python;${workspaceFolder}\\python\\Scrfipts;"
+    },
+    "python.pythonPath": "${workspaceFolder}\\python\\python.exe"
+}
