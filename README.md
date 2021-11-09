@@ -1,13 +1,18 @@
 # pystudy
+
 python study repository
 
 ## how to install
 
-ダウンロード
+1. download python embeded
 
-https://www.python.org/ftp/python/3.9.8/python-3.9.8-embed-amd64.zip
+> wsl get https://www.python.org/ftp/python/3.9.8/python-3.9.8-embed-amd64.zip
 
-- setting.json
+1. extract all files from compressed file
+
+> wsl unzip ./python-3.9.8-embed-amd64.zip ./python
+
+1. setting.json
 
 ```json:setting.json
 {
@@ -18,7 +23,7 @@ https://www.python.org/ftp/python/3.9.8/python-3.9.8-embed-amd64.zip
 }
 ```
 
-- launch.json
+1. launch.json
 
 ```json:launch.json
 {
