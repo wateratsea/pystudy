@@ -6,7 +6,7 @@ python study repository
 
 1. download python embeded
 
-> wsl get https://www.python.org/ftp/python/3.9.8/python-3.9.8-embed-amd64.zip
+> wsl wget https://www.python.org/ftp/python/3.9.8/python-3.9.8-embed-amd64.zip
 
 1. extract all files from compressed file
 
